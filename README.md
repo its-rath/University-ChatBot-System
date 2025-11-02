@@ -11,18 +11,18 @@ A production-ready intelligent chatbot system for university environments, desig
 
 ## 📋 Table of Contents
 
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Performance Metrics](#performance-metrics)
-- [Quick Start](#quick-start)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [API Documentation](#api-documentation)
-- [NLP Training](#nlp-training)
-- [Docker Deployment](#docker-deployment)
-- [Testing](#testing)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
+- [Features](https://github.com/its-rath/University-ChatBot-System?tab=readme-ov-file#-features)
+- [Tech Stack](https://github.com/its-rath/University-ChatBot-System#%EF%B8%8F-tech-stack)
+- [Performance Metrics](https://github.com/its-rath/University-ChatBot-System?tab=readme-ov-file#-performance-metrics)
+- [Quick Start](https://github.com/its-rath/University-ChatBot-System?tab=readme-ov-file#-quick-start)
+- [Installation](https://github.com/its-rath/University-ChatBot-System?tab=readme-ov-file#manual-installation)
+- [Configuration](https://github.com/its-rath/University-ChatBot-System?tab=readme-ov-file#%EF%B8%8F-configuration)
+- [API Documentation](https://github.com/its-rath/University-ChatBot-System?tab=readme-ov-file#-api-documentation)
+- [NLP Training](https://github.com/its-rath/University-ChatBot-System?tab=readme-ov-file#-nlp-training)
+- [Docker Deployment](https://github.com/its-rath/University-ChatBot-System?tab=readme-ov-file#-docker-deployment)
+- [Testing](https://github.com/its-rath/University-ChatBot-System?tab=readme-ov-file#-testing)
+- [Project Structure](https://github.com/its-rath/University-ChatBot-System?tab=readme-ov-file#-project-structure)
+- [Contributing](https://github.com/its-rath/University-ChatBot-System?tab=readme-ov-file#-contributing)
 
 ## ✨ Features
 
