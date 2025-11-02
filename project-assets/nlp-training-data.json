@@ -1,0 +1,164 @@
+{
+  "intents": [
+    {
+      "intent": "greeting",
+      "examples": [
+        "Hello",
+        "Hi",
+        "Hey",
+        "Good morning",
+        "Good afternoon",
+        "Greetings",
+        "What's up",
+        "How are you",
+        "Hello there",
+        "Hi there"
+      ]
+    },
+    {
+      "intent": "thanks",
+      "examples": [
+        "Thank you",
+        "Thanks",
+        "Much appreciated",
+        "Thanks a lot",
+        "Thank you very much",
+        "I appreciate it",
+        "That's helpful",
+        "Great help"
+      ]
+    },
+    {
+      "intent": "help",
+      "examples": [
+        "Help",
+        "Can you help me",
+        "What can you do",
+        "What are your capabilities",
+        "How can you help",
+        "What features do you have",
+        "Guide me",
+        "Show me available commands"
+      ]
+    },
+    {
+      "intent": "course_info",
+      "examples": [
+        "What is CS101",
+        "Tell me about CS101",
+        "Information about Data Structures",
+        "Describe CS201",
+        "What does MATH201 cover",
+        "Course description for CS301",
+        "What's in CS401",
+        "Tell me about the AI course",
+        "What is MATH101",
+        "Information about Physics course"
+      ]
+    },
+    {
+      "intent": "course_schedule",
+      "examples": [
+        "When is CS101 offered",
+        "What time does CS201 meet",
+        "Schedule for Database Systems",
+        "When does MATH201 meet",
+        "Class times for CS401",
+        "When is Physics class",
+        "What days is English offered",
+        "Time for Business Analytics",
+        "When does the calculus class meet",
+        "Schedule for CS501"
+      ]
+    },
+    {
+      "intent": "course_prerequisites",
+      "examples": [
+        "What are the prerequisites for CS301",
+        "Do I need to take CS101 first",
+        "Prerequisites for CS401",
+        "What's required before MATH201",
+        "Prerequisite for Database Systems",
+        "What do I need to know before CS201",
+        "Course requirements for CS301",
+        "What courses do I need first"
+      ]
+    },
+    {
+      "intent": "instructor_info",
+      "examples": [
+        "Who teaches CS101",
+        "Tell me about Professor Smith",
+        "Information about Dr. Johnson",
+        "Who is the instructor for Database Systems",
+        "Tell me about the teacher",
+        "Who teaches AI",
+        "Information about faculty in Computer Science",
+        "Tell me about Professor Brown"
+      ]
+    },
+    {
+      "intent": "instructor_office_hours",
+      "examples": [
+        "What are Professor Smith's office hours",
+        "When can I meet with Dr. Johnson",
+        "Office hours for Computer Science faculty",
+        "When is Professor Brown available",
+        "Can I meet with the instructor",
+        "When can I visit the professor",
+        "What are the office hours"
+      ]
+    },
+    {
+      "intent": "course_availability",
+      "examples": [
+        "Are there seats available in CS101",
+        "Is CS201 full",
+        "How many spots are open in MATH201",
+        "Can I enroll in CS301",
+        "Are there available seats",
+        "Is the database course full",
+        "How many students are enrolled",
+        "Are there any open sections"
+      ]
+    },
+    {
+      "intent": "department_courses",
+      "examples": [
+        "Show me Computer Science courses",
+        "What courses does Math department offer",
+        "List of Business courses",
+        "What's available in Physics department",
+        "Courses in English department",
+        "Show all CS courses",
+        "What classes are offered in Mathematics",
+        "Chemistry courses available"
+      ]
+    },
+    {
+      "intent": "course_credits",
+      "examples": [
+        "How many credits is CS101",
+        "What's the credit hour for MATH201",
+        "How many credits does the AI course have",
+        "Credit hours for CS301",
+        "Is CS201 worth 4 credits",
+        "How many credit hours is Physics",
+        "What's the credit value of the course"
+      ]
+    },
+    {
+      "intent": "course_location",
+      "examples": [
+        "Where is CS101 held",
+        "What room is the database class in",
+        "Location for MATH201",
+        "Where does CS401 meet",
+        "What building is Physics in",
+        "Room number for the lecture",
+        "Where is the English class",
+        "Building location for Business course"
+      ]
+    }
+  ]
+}
