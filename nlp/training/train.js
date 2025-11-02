@@ -133,7 +133,7 @@ function prepareTrainingData(intents, wordIndex, intentLabels) {
 
   return {
     X: tf.tensor2d(sequences),
-    y: tf.tensor1d(labels, 'int32')
+    y: tf.tensor1d(labels, 'float32')
   };
 }
 

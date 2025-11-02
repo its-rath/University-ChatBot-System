@@ -1,0 +1,14 @@
+{
+  "greeting": 0,
+  "thanks": 1,
+  "help": 2,
+  "course_info": 3,
+  "course_schedule": 4,
+  "course_prerequisites": 5,
+  "instructor_info": 6,
+  "instructor_office_hours": 7,
+  "course_availability": 8,
+  "department_courses": 9,
+  "course_credits": 10,
+  "course_location": 11
+}

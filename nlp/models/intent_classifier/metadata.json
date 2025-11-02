@@ -1,0 +1,19 @@
+{
+  "trainingDate": "2025-11-02T11:44:42.163Z",
+  "vocabularySize": 124,
+  "maxSequenceLength": 50,
+  "embeddingDim": 100,
+  "epochs": 50,
+  "batchSize": 32,
+  "intents": 12,
+  "config": {
+    "modelPath": "./nlp/models/intent_classifier",
+    "trainingDataPath": "./nlp/training/intents.json",
+    "epochs": 50,
+    "batchSize": 32,
+    "validationSplit": 0.2,
+    "vocabularySize": 10000,
+    "maxSequenceLength": 50,
+    "embeddingDim": 100
+  }
+}
